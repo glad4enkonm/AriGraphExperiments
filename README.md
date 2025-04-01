@@ -1,7 +1,7 @@
 # AriGraphExperiments
 
-Reproducing Key Components of "AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents" [the article](https://arxiv.org/abs/2407.04363)
-Note : This is an independent implementation. For official code, [see](https://github.com/AIRI-Institute/AriGraph).
+Reproducing Key Components of **"AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents"** [the article](https://arxiv.org/abs/2407.04363)
+Note : This is an independent implementation. **For official code, [see](https://github.com/AIRI-Institute/AriGraph)**.
 
 ---
 
