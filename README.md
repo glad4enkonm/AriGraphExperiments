@@ -1,11 +1,12 @@
 # AriGraphExperiments
 
 **Reproducing Key Components of "AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents"**
+Note : This is an independent implementation. For official code, [see](https://github.com/AIRI-Institute/AriGraph).
 
 ---
 
 ## Overview  
-This repository implements core components of the **AriGraph** framework, which enables LLM agents to build structured memory graphs combining *semantic knowledge* and *episodic experiences* for complex decision-making. The architecture is inspired by the paper's focus on text-game environments and multi-hop reasoning [[6]].  
+This repository implements core components of the **AriGraph** framework, which enables LLM agents to build structured memory graphs combining *semantic knowledge* and *episodic experiences* for complex decision-making. The architecture is inspired by the paper's focus on text-game environments and multi-hop reasoning.  
 
 ---
 
